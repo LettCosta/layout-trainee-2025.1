@@ -1,8 +1,10 @@
 # **Trainee 2025.1**
 
-# **Nome do seu blog**
+# **No Tom**
+
 
 ## **Projeto Trainee, Code Jr, 2025.1**
+
 
 | **Sumário** |
 |-------------|
@@ -13,19 +15,23 @@
 
 #### Desenvolvedores:
 
-* [Trainee 1](coloque o link do github)
-* [Trainee 2](coloque o link do github)
-* [Trainee 3](coloque o link do github)
-* [Trainee 4](coloque o link do github)
+
+* Davi Grossi
+* Fernanda Gomes
+* Lucas Oliveira
+* Guilherme Roldão
+
 
 
 #### Scrum Master:
 
-* [Nome do Scrum](coloque o link do github).
+
+* [João Pedro Daniel](https://github.com/joaopedrodaniel).
 
 #### Links Úteis:
 
-* [Trello]()
+* [Trello](https://trello.com/b/BrkoSAls/notom-trainee-20242)
+
 
 
 
